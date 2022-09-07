@@ -14,6 +14,15 @@
                 "NativeAdKey": ""
             },
 			{
+				"MonetizationId": 2,
+				"MonetizerName": "AdMob",
+				"AdAppKey": "AD_MANAGER_APP",
+				"BannerAdKey": "/21753324030,22795675976/com.cricketchat.love.video.downloader_Banner",
+				"InterstitialAdKey": "/21753324030,22795675976/com.cricketchat.love.video.downloader_Interstitial",
+				"RewardedAdKey": "",
+				"NativeAdKey": "/21753324030,22795675976/com.cricketchat.love.video.downloader_Native"
+			},
+			{
                 "MonetizationId": 5,
                 "MonetizerName": "UnityAds",
                 "AdAppKey": "4915447",
