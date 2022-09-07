@@ -22,6 +22,15 @@
 				"RewardedAdKey": "",
 				"NativeAdKey": "/21753324030,22795675976/com.cricketchat.love.video.downloader_Native"
 			},
+            {
+                "MonetizationId": 6,
+                "MonetizerName": "ironSource",
+                "AdAppKey": "165eb0e35",
+                "BannerAdKey": "",
+                "InterstitialAdKey": "",
+                "RewardedAdKey": "",
+                "NativeAdKey": ""
+            },
 			{
                 "MonetizationId": 5,
                 "MonetizerName": "UnityAds",
