@@ -5,24 +5,6 @@
         "ShowAds": true,
         "Ads": [
             {
-                "MonetizationId": 1,
-                "MonetizerName": "Facebook Monetization",
-                "AdAppKey": "815909782937655",
-                "BannerAdKey": "815909782937655_815912062937427",
-                "InterstitialAdKey": "815909782937655_815912156270751",
-                "RewardedAdKey": "815909782937655_815912339604066",
-                "NativeAdKey": ""
-            },
-            {
-				"MonetizationId": 2,
-				"MonetizerName": "AdMob",
-				"AdAppKey": "AD_MANAGER_APP",
-				"BannerAdKey": "/21753324030,22795675976/com.cricketchat.romantic.whatsapp.stickers_Banner",
-				"InterstitialAdKey": "/21753324030,22795675976/com.cricketchat.romantic.whatsapp.stickers_Interstitial",
-				"RewardedAdKey": "/21753324030,22795675976/com.cricketchat.romantic.whatsapp.stickers_Rewarded",
-				"NativeAdKey": "/21753324030,22795675976/com.cricketchat.romantic.whatsapp.stickers_Native"
-			},
-            {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
                 "AdAppKey": "165e9b505",
@@ -38,6 +20,15 @@
                 "BannerAdKey": "Banner_Android",
                 "InterstitialAdKey": "Interstitial_Android",
                 "RewardedAdKey": "Rewarded_Android",
+                "NativeAdKey": ""
+            },
+            {
+                "MonetizationId": 1,
+                "MonetizerName": "Facebook Monetization",
+                "AdAppKey": "815909782937655",
+                "BannerAdKey": "815909782937655_815912062937427",
+                "InterstitialAdKey": "815909782937655_815912156270751",
+                "RewardedAdKey": "815909782937655_815912339604066",
                 "NativeAdKey": ""
             }
         ]
